@@ -1,0 +1,44 @@
+.container {
+    transform: translateY(-100%);
+}
+
+.container p {
+    color: red;
+    text-align: center;
+}
+
+.drop-container {
+    align-items: center;
+    justify-content: center;
+    width: 338px;
+    height: 180px;
+    left: 551.82px;
+    top: 200.97px;
+
+    background: #F6F8FB;
+    border: 1px dashed #97BEF4;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+.upload-icon {
+    width: 100px;
+    height: 100px;
+    background: url(../images/preview.png) no-repeat center center; 
+    background-size: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.drop-message {
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.035em;
+    color: #BDBDBD;
+
+}
