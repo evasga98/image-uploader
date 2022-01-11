@@ -1,26 +1,3 @@
-.container {
-    transform: translateY(-100%);
-}
-
-.container p {
-    color: red;
-    text-align: center;
-}
-
-.drop-container {
-    align-items: center;
-    justify-content: center;
-    width: 338px;
-    height: 180px;
-    left: 551.82px;
-    top: 200.97px;
-
-    background: #F6F8FB;
-    border: 1px dashed #97BEF4;
-    box-sizing: border-box;
-    border-radius: 12px;
-}
-
 .upload-icon {
     width: 100px;
     height: 100px;
